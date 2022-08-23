@@ -1,4 +1,4 @@
-package com.wangguangwu.basetructures;
+package com.wangguangwu.basetructures.baseArray;
 
 import java.util.ArrayList;
 import java.util.List;
